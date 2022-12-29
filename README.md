@@ -1,4 +1,4 @@
-<h1 align="center"> GSP---Data-Mining </h1>
+<h1 align="center"> GSP-Data_Mining </h1>
 
 <h2 align="center">GSP algorithm implementation using C++ </h2>
 
